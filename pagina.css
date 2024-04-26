@@ -1,0 +1,48 @@
+.enca{
+    text-align: center;
+    color:rgb(23, 92, 240);
+    
+}
+body{
+    background-color:rgb(165, 155, 155);
+    
+}
+#uno{
+    color:rgb(0, 0, 0);
+    border-color:rgb(23, 92, 240);
+    border-style: solid;
+    border-radius: 7px;
+    border-width: 7px;
+}
+.nam{
+    color:rgb(23, 92, 240);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#bibli{
+    text-align: justify;
+    
+}
+#hab{
+    color:rgb(23, 92, 240);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:rgb(25, 172, 221);
+}
+footer{
+    background-color:#333;
+    color:#ffffff;
+    text-align: center;
+    position: static;
+    bottom: 0;
+    width:100%;
+    opacity:15%;
+}
+.mu{
+    color:rgb(23, 92, 240);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
